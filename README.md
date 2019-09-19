@@ -3,3 +3,7 @@
  
  This script takes a tabular format file with genes coordinates and length between each gene.
  And inserts an empty line between strains/contigs/within strains if the genes are >2000 bp apart
+ 
+ ## extract_fasta.py
+ 
+ extracts fasta sequences from a concatenated fasta file for a series of sequence ids (gids)
